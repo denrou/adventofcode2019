@@ -3,5 +3,6 @@
 export(fuel_requirement)
 export(gravity_assist)
 export(port_intersection)
+export(secure_container)
 importFrom(magrittr,"%>%")
 importFrom(rlang,"!!")

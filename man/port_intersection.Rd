@@ -20,5 +20,6 @@ this point does not count, nor does a wire count as crossing with itself.
 }
 \examples{
 port_intersection(day_3[[1]], day_3[[2]])
+port_intersection(day_3[[1]], day_3[[2]], use_time = TRUE)
 
 }
